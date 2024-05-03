@@ -1,0 +1,442 @@
+{
+    "10x1.png": {
+        "height": 22,
+        "width": 20
+    },
+    "10x10.png": {
+        "height": 24,
+        "width": 20
+    },
+    "10x11.png": {
+        "height": 24,
+        "width": 20
+    },
+    "10x2.png": {
+        "height": 16,
+        "width": 20
+    },
+    "10x3.png": {
+        "height": 16,
+        "width": 20
+    },
+    "10x4.png": {
+        "height": 26,
+        "width": 20
+    },
+    "10x5.png": {
+        "height": 28,
+        "width": 20
+    },
+    "10x6.png": {
+        "height": 20,
+        "width": 20
+    },
+    "10x7.png": {
+        "height": 26,
+        "width": 20
+    },
+    "10x8.png": {
+        "height": 24,
+        "width": 20
+    },
+    "10x9.png": {
+        "height": 24,
+        "width": 20
+    },
+    "1x1.png": {
+        "height": 22,
+        "width": 20
+    },
+    "1x10.png": {
+        "height": 24,
+        "width": 20
+    },
+    "1x11.png": {
+        "height": 24,
+        "width": 20
+    },
+    "1x2.png": {
+        "height": 16,
+        "width": 20
+    },
+    "1x3.png": {
+        "height": 16,
+        "width": 20
+    },
+    "1x4.png": {
+        "height": 26,
+        "width": 20
+    },
+    "1x5.png": {
+        "height": 28,
+        "width": 20
+    },
+    "1x6.png": {
+        "height": 20,
+        "width": 20
+    },
+    "1x7.png": {
+        "height": 26,
+        "width": 20
+    },
+    "1x8.png": {
+        "height": 24,
+        "width": 20
+    },
+    "1x9.png": {
+        "height": 24,
+        "width": 20
+    },
+    "2x1.png": {
+        "height": 22,
+        "width": 24
+    },
+    "2x10.png": {
+        "height": 24,
+        "width": 24
+    },
+    "2x11.png": {
+        "height": 24,
+        "width": 24
+    },
+    "2x2.png": {
+        "height": 16,
+        "width": 24
+    },
+    "2x3.png": {
+        "height": 16,
+        "width": 24
+    },
+    "2x4.png": {
+        "height": 26,
+        "width": 24
+    },
+    "2x5.png": {
+        "height": 28,
+        "width": 24
+    },
+    "2x6.png": {
+        "height": 20,
+        "width": 24
+    },
+    "2x7.png": {
+        "height": 26,
+        "width": 24
+    },
+    "2x8.png": {
+        "height": 24,
+        "width": 24
+    },
+    "2x9.png": {
+        "height": 24,
+        "width": 24
+    },
+    "3x1.png": {
+        "height": 22,
+        "width": 20
+    },
+    "3x10.png": {
+        "height": 24,
+        "width": 20
+    },
+    "3x11.png": {
+        "height": 24,
+        "width": 20
+    },
+    "3x2.png": {
+        "height": 16,
+        "width": 20
+    },
+    "3x3.png": {
+        "height": 16,
+        "width": 20
+    },
+    "3x4.png": {
+        "height": 26,
+        "width": 20
+    },
+    "3x5.png": {
+        "height": 28,
+        "width": 20
+    },
+    "3x6.png": {
+        "height": 20,
+        "width": 20
+    },
+    "3x7.png": {
+        "height": 26,
+        "width": 20
+    },
+    "3x8.png": {
+        "height": 24,
+        "width": 20
+    },
+    "3x9.png": {
+        "height": 24,
+        "width": 20
+    },
+    "4x1.png": {
+        "height": 22,
+        "width": 20
+    },
+    "4x10.png": {
+        "height": 24,
+        "width": 20
+    },
+    "4x11.png": {
+        "height": 24,
+        "width": 20
+    },
+    "4x2.png": {
+        "height": 16,
+        "width": 20
+    },
+    "4x3.png": {
+        "height": 16,
+        "width": 20
+    },
+    "4x4.png": {
+        "height": 26,
+        "width": 20
+    },
+    "4x5.png": {
+        "height": 28,
+        "width": 20
+    },
+    "4x6.png": {
+        "height": 20,
+        "width": 20
+    },
+    "4x7.png": {
+        "height": 26,
+        "width": 20
+    },
+    "4x8.png": {
+        "height": 24,
+        "width": 20
+    },
+    "4x9.png": {
+        "height": 24,
+        "width": 20
+    },
+    "5x1.png": {
+        "height": 22,
+        "width": 28
+    },
+    "5x10.png": {
+        "height": 24,
+        "width": 28
+    },
+    "5x11.png": {
+        "height": 24,
+        "width": 28
+    },
+    "5x2.png": {
+        "height": 16,
+        "width": 28
+    },
+    "5x3.png": {
+        "height": 16,
+        "width": 28
+    },
+    "5x4.png": {
+        "height": 26,
+        "width": 28
+    },
+    "5x5.png": {
+        "height": 28,
+        "width": 28
+    },
+    "5x6.png": {
+        "height": 20,
+        "width": 28
+    },
+    "5x7.png": {
+        "height": 26,
+        "width": 28
+    },
+    "5x8.png": {
+        "height": 24,
+        "width": 28
+    },
+    "5x9.png": {
+        "height": 24,
+        "width": 28
+    },
+    "6x1.png": {
+        "height": 22,
+        "width": 28
+    },
+    "6x10.png": {
+        "height": 24,
+        "width": 28
+    },
+    "6x11.png": {
+        "height": 24,
+        "width": 28
+    },
+    "6x2.png": {
+        "height": 16,
+        "width": 28
+    },
+    "6x3.png": {
+        "height": 16,
+        "width": 28
+    },
+    "6x4.png": {
+        "height": 26,
+        "width": 28
+    },
+    "6x5.png": {
+        "height": 28,
+        "width": 28
+    },
+    "6x6.png": {
+        "height": 20,
+        "width": 28
+    },
+    "6x7.png": {
+        "height": 26,
+        "width": 28
+    },
+    "6x8.png": {
+        "height": 24,
+        "width": 28
+    },
+    "6x9.png": {
+        "height": 24,
+        "width": 28
+    },
+    "7x1.png": {
+        "height": 22,
+        "width": 20
+    },
+    "7x10.png": {
+        "height": 24,
+        "width": 20
+    },
+    "7x11.png": {
+        "height": 24,
+        "width": 20
+    },
+    "7x2.png": {
+        "height": 16,
+        "width": 20
+    },
+    "7x3.png": {
+        "height": 16,
+        "width": 20
+    },
+    "7x4.png": {
+        "height": 26,
+        "width": 20
+    },
+    "7x5.png": {
+        "height": 28,
+        "width": 20
+    },
+    "7x6.png": {
+        "height": 20,
+        "width": 20
+    },
+    "7x7.png": {
+        "height": 26,
+        "width": 20
+    },
+    "7x8.png": {
+        "height": 24,
+        "width": 20
+    },
+    "7x9.png": {
+        "height": 24,
+        "width": 20
+    },
+    "8x1.png": {
+        "height": 22,
+        "width": 20
+    },
+    "8x10.png": {
+        "height": 24,
+        "width": 20
+    },
+    "8x11.png": {
+        "height": 24,
+        "width": 20
+    },
+    "8x2.png": {
+        "height": 16,
+        "width": 20
+    },
+    "8x3.png": {
+        "height": 16,
+        "width": 20
+    },
+    "8x4.png": {
+        "height": 26,
+        "width": 20
+    },
+    "8x5.png": {
+        "height": 28,
+        "width": 20
+    },
+    "8x6.png": {
+        "height": 20,
+        "width": 20
+    },
+    "8x7.png": {
+        "height": 26,
+        "width": 20
+    },
+    "8x8.png": {
+        "height": 24,
+        "width": 20
+    },
+    "8x9.png": {
+        "height": 24,
+        "width": 20
+    },
+    "9x1.png": {
+        "height": 22,
+        "width": 24
+    },
+    "9x10.png": {
+        "height": 24,
+        "width": 24
+    },
+    "9x11.png": {
+        "height": 24,
+        "width": 24
+    },
+    "9x2.png": {
+        "height": 16,
+        "width": 24
+    },
+    "9x3.png": {
+        "height": 16,
+        "width": 24
+    },
+    "9x4.png": {
+        "height": 26,
+        "width": 24
+    },
+    "9x5.png": {
+        "height": 28,
+        "width": 24
+    },
+    "9x6.png": {
+        "height": 20,
+        "width": 24
+    },
+    "9x7.png": {
+        "height": 26,
+        "width": 24
+    },
+    "9x8.png": {
+        "height": 24,
+        "width": 24
+    },
+    "9x9.png": {
+        "height": 24,
+        "width": 24
+    }
+}
